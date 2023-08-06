@@ -1,8 +1,9 @@
 # Argon One V2 Pi 4 Installation Guide
+This guide is for my own use but is public if anyone else also needs help with assembling and installing it. I am in no way affiliated with [Argon 40](https://www.argon40.com), im just a end user of their product.
+
 If you havent already assembled your Argon One V2 Pi 4 Case, please assemble it first.  
-If you need help with that look through the assembly manual provided inside the box.  
-If your manual is missing or prefer to look it up online instead i have a PDF manual for you to download/look through.   
-[ArgonOneV2Pi4_InstructionManual.pdf](ArgonOneV2Pi4_InstructionManual.pdf)
+If you need help with that look through the assembly manual provided inside the box. If your manual is missing or prefer to look it up online instead i have a PDF manual for you to download/look through.   
+Click this link: [ArgonOneV2Pi4_InstructionManual.pdf](ArgonOneV2Pi4_InstructionManual.pdf) or you can find the PDF file in this repo.
 
 
 ### Installation
