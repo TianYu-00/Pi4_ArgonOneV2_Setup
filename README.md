@@ -2,7 +2,7 @@
 If you havent already assembled your Argon One V2 Pi 4 Case, please assemble it first.  
 If you need help with that look through the assembly manual provided inside the box.  
 If your manual is missing or prefer to look it up online instead i have a PDF manual for you to download/look through.   
-https://github.com/TianYu-00/Pi4_ArgonOneV2_Setup/blob/main/ArgonOneV2Pi4_InstructionManual.pdf
+[ArgonOneV2Pi4_InstructionManual.pdf](ArgonOneV2Pi4_InstructionManual.pdf)
 
 
 ### Installation
